@@ -55,7 +55,7 @@ main {
 .join {
   background: hsl(0, 0%, 100%);
   border-radius: 10px 10px 0 0;
-  padding: 40px;
+  padding: 30px;
   width: 100%;
 }
 
@@ -74,7 +74,7 @@ h3 {
 }
 
 .subscribe, .why-us {
-  padding: 40px;
+  padding: 30px;
   width: 50%;
 }
 
@@ -117,7 +117,7 @@ input[type="submit"]:hover {
 
 @media screen and (max-width: 1480px) {
   main {
-    width: 60%;
+    width: 55%;
   }
 }
 @media screen and (max-width: 1080px) {
